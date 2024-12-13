@@ -7,7 +7,7 @@ A tutorial-based project exploring Markov Chain Monte Carlo (MCMC) methods for s
 
 Clone the repository
 
-git clone ttps://github.com/astro-andrea/finalproject_comp.git
+git clone https://github.com/astro-andrea/finalproject_comp.git
 cd finalproject_comp
 
 Run the Jupyter Notebook from the cloned repository
